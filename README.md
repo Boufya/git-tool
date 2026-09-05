@@ -1,5 +1,6 @@
 # GitHub Tool
-A custom tool that I made as a commission by one of my friends, whom found it tedious to manually input commands. The largest problem he listed was GitHub Desktop, amongst the other Git tools, never really initialized Git LFS on any of the projects. That's when I had the bright idea to create this tool, and partially due to the available options being superfluous, requiring extensive and unconventional setups.
+A custom tool that I made as a commission by one of my friends, whom found it tedious to manually input commands. The largest problem he listed was GitHub Desktop, amongst the other Git tools, never really initialized Git LFS on any of the projects. That's when I had the bright idea to create this tool, and partially due to the available options, requiring extensive and unconventional setups.
+<img width="732" height="624" alt="image" src="https://github.com/user-attachments/assets/c318d5fa-265f-47d3-b993-432bc57ffb0b" />
 
 ## Why Open Source?
 > **NOTE:** Please do **NOT** sell this tool. Feel free to modify it and personalize it, but this tool **should** remain free.
